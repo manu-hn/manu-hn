@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **NextJS, Tailwind CSS**
 
-- 🤝 I’m looking for help with **Frontend Development**
-
 - 💬 Ask me about **JavaScript, Java, React, NodeJS, MongoDB and SQL**
 
 - 📫 How to reach me **manuu.hn11@gmail.com**
