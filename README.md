@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Manu H N</h1>
-<h3 align="center">A passionate Full Stack Enthusiast from India</h3>
+<h3 align="center">Frontend Enthusiast: Journey in MERN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manu-hn&label=Profile%20views&color=0e75b6&style=flat" alt="manu-hn" /> </p>
 
 - 🌱 I’m currently learning **NextJS, Tailwind CSS**
 
-- 💬 Ask me about **JavaScript, Java, React, NodeJS, MongoDB and SQL**
+- 💬 Ask me about **JavaScript, Java, React, MERN Stack**
 
-- 📫 How to reach me **manuu.hn11@gmail.com**
+- 📫 How to reach me **connectwith.manu05@gmail.com**
+
+- 📄 Know about my experiences  <a href="https://flowcv.com/resume/b94851sj2s">Download My Resume</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +25,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manu-hn&show_icons=true&locale=en&layout=compact" alt="manu-hn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manu-hn&" alt="manu-hn" /></p>
-
