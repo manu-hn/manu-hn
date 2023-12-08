@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Namaste! 🙏 I'm a passionate engineering grad diving into the world of MERN Stack and Frontend Dev. 🚀 Fluent in React.js, Node.js, MongoDB, and more, I code to craft stellar applications. Java is my secret weapon for robust solutions! 🌐 When not coding, I'm immersed in books for growth and decoding the stock market. Let's code and conquer together! 💻✨ #IndianDeveloper 🇮🇳"
+"Namaste! 🙏 I'm a passionate engineering grad diving into the world of MERN Stack and Frontend Dev. 🚀 Fluent in JavaAcript, React.js, Java and more, I code to craft stellar applications. Java is my secret weapon for robust solutions! 🌐 When not coding, I'm immersed in books for growth and decoding the stock market. Let's code and conquer together! 💻✨ #IndianDeveloper 🇮🇳"
 
 
 ## 🌐 Socials:
