@@ -1,5 +1,12 @@
-# 💫 About Me:
-Namaste everyone! 🙏 I'm Manu HN, a MERN Stack developer with a focus on Next.js. I specialize in building applications using MERN technologies and am currently working as a freelancer. My recent personal projects include PixifyAI, focusing on image editing using AI tools, and FlowCraft AI, a content creation SaaS using Next.js, Tailwind CSS, Clerk CMS, Gemini AI, and TypeScript. When I'm not coding, you can find me exploring the stock market or diving into self-growth books. Let's collaborate and create something amazing! 💻✨ #IndianDeveloper 🇮🇳
+# 💫 About Me
+
+Namaste everyone! 🙏 I'm Manu HN, a frontend-focused Software Engineer at Demetrix Infotech in Bengaluru. I build production web applications with React, Next.js and TypeScript, and I'm the sole frontend engineer on 5+ live client products, including a real-time commodity trading platform and an LMS serving 10,000+ users.
+
+I care about performance and accessibility: I've cut a Next.js app's first-load JS by ~25% and raised Lighthouse scores on a production platform from below 40 to 70+. I'm also comfortable across the stack with Node.js, MongoDB and AWS.
+
+My personal projects include PixifyAI (AI-powered image editing) and FlowCraft AI (a content creation SaaS built with Next.js, Tailwind CSS, Clerk, Gemini AI and TypeScript).
+
+When I'm not coding, you can find me exploring the stock market or diving into self-growth books. Let's collaborate and create something amazing! 💻✨
 
 
 ## 🌐 Socials:
