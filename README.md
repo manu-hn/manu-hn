@@ -4,8 +4,6 @@ Namaste everyone! 🙏 I'm Manu HN, a frontend-focused Software Engineer at Deme
 
 I care about performance and accessibility: I've cut a Next.js app's first-load JS by ~25% and raised Lighthouse scores on a production platform from below 40 to 70+. I'm also comfortable across the stack with Node.js, MongoDB and AWS.
 
-My personal projects include PixifyAI (AI-powered image editing) and FlowCraft AI (a content creation SaaS built with Next.js, Tailwind CSS, Clerk, Gemini AI and TypeScript).
-
 When I'm not coding, you can find me exploring the stock market or diving into self-growth books. Let's collaborate and create something amazing! 💻✨
 
 
